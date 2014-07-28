@@ -7,3 +7,6 @@ body>.container {
   border: 1px solid #ddd;
   box-shadow: 0 10px 8px -6px #ccd;
 }
+.table {
+  text-transform: capitalize;
+}
